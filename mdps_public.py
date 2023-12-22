@@ -8,8 +8,6 @@ Created on Sun May  8 21:01:15 2022
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
-pip install --upgrade streamlit
-
 
 # loading the saved models
 
